@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #root {
+    /* Ensure the root element takes up the full height of the viewport */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
